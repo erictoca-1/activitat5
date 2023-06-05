@@ -1,0 +1,72 @@
+.mates{
+    background-color: green;text-align: center;
+    width: 50px;
+}
+.ingles{
+    background-color:yellow;text-align: center;
+    width: 50px;
+}
+.cultura{
+    background-color: greenyellow;text-align: center;
+    width: 50px;
+}
+.bio{
+    background-color:teal;text-align: center;
+    width: 50px;
+}
+.info{
+    background-color: thistle;text-align: center;
+    width: 50px;
+    
+}
+.hist{
+    background-color: rgb(235, 93, 235);text-align: center;
+    width: 50px;
+}
+.caste{
+    background-color: mediumaquamarine;text-align: center;
+    width: 50px;
+}
+.fyq{
+    background-color: wheat;text-align: center;
+    width: 50px;
+}
+.ef{
+    background-color: cornflowerblue;text-align: center;
+    width: 50px;
+}
+.valen{
+    background-color: red;text-align: center;
+    width: 50px;
+}
+.tutoria{
+    background-color: pink;text-align: center;
+    width: 50px;
+}
+.pati{
+    background-color: orangered;text-align: center;
+    width: 50px;
+}
+.reli{
+    background-color: orange;text-align: center;
+    width: 50px;
+}
+.dias{
+    background-color: aqua;text-align: center;
+    width: 50px;
+}
+.horas{
+    background-color: goldenrod;
+    
+}
+.tabla-horario{
+    /* Me sirve para indicar que los bordes de las celdas no deben estar separados */
+    border-collapse: collapse;
+}
+
+.tabla-horario td, .tabla-horario th{
+    /* Especifico el borde de las celdas, para la tabla con clase "tabla-horario" */
+    border: 1px solid black;
+    padding: 7px;
+}
+
